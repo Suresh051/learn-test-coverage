@@ -1,3 +1,4 @@
+#OK
 name: Running Code Coverage
 
 on: [push, pull_request]
